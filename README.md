@@ -1,4 +1,4 @@
-# Proyecto Personal — Dispositivo de alerta para personas con discapacidad visual
+# Proyecto Personal - Dispositivo de alerta para personas con discapacidad visual
 
 Dispositivo electrónico programado en Arduino que detecta obstáculos cercanos mediante un sensor ultrasónico y alerta al usuario con pitidos sonoros de frecuencia variable, permitiendo mayor autonomía al desplazarse.
 
